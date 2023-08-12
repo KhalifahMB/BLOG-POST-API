@@ -4,7 +4,7 @@ Welcome to the Blogging Platform API documentation!
 
 ## Installation and Setup
 
-1. Clone the repository: `git clone https://github.com/yourusername/blogging-platform.git`
+1. Clone the repository: `git clone https://github.com/KhalifahMB/BLOG-POST-API.git`
 2. Install dependencies using pipenv: `pipenv install`
 3. Activate the virtual environment: `pipenv shell`
 4. Apply migrations: `python manage.py migrate`
